@@ -28,23 +28,23 @@ The model is a U-net model with 4 encoder blocks and 4 decoder blocks. In the sk
 The model achieved the highest accuracy of ~90% after 100 epochs. While testing, most of the masks are good enough, only minor errors.
 
 <p align="center">
-  <img src="results/loss_accuracy.png"><br/>
+  <img src="loss_accuracy.png"><br/>
   <i>Accuracy and loss during training.</i>
 </p>
 
 
 <p align="center">
-  <img src="results/test1.png"><br/>
+  <img src="test1.png"><br/>
   <i>Test the prediction.</i>
 </p>
 
 <p align="center">
-  <img src="results/test2.png"><br/>
+  <img src="test2.png"><br/>
   <i>Test the prediction.</i>
 </p>
 
 <p align="center">
-  <img src="results/test3.png"><br/>
+  <img src="test3.png"><br/>
   <i>Test the prediction.</i>
 </p>
 
